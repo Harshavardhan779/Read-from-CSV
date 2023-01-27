@@ -2,7 +2,7 @@
 
 ## AIM:
 To write a python program for reading the csv file content.
-# EQUIPMENT REQUIRED:
+## EQUIPMENT REQUIRED:
 PC Anaconda - Python 3.7
 
 ## ALGORITHM:
